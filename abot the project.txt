@@ -1,0 +1,6 @@
+Clasificación de Victorias o Derrotas en Partidas Competitivas Solo Q Challenger 5vs5 League of Legends
+
+Developed project by David Perales and Michel Perales in a course of python basic - intermediate of A & Z Consult SAC leaded by teacher Francisco Arévalo.
+
+This project has four parts: Riot Api, Format Data, Data Analysis and Classifying Data.
+Riot Api and Format Data are into riot api package and data analysis with classifying data is included in data analysis package.
