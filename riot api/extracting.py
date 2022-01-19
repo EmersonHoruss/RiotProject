@@ -5,7 +5,7 @@ import requests
 
 
 # CONSTANTS
-TOKEN: Dict = {"X-Riot-Token": "RGAPI-4d21127b-90d4-4d15-8d1a-2a14d7563b8c"}
+TOKEN: Dict = {"X-Riot-Token": ""}
 PARAMS_ENTRIES: Dict = {"queue": "RANKED_SOLO_5x5", "tier": "DIAMOND", "division": "I"}
 QUERY_PARAMS_MATCH: Dict = {"start": 0, "count": 1, "queue": 420, "type": "ranked"}
 NUM_SUMMONERS: int or None = 2
